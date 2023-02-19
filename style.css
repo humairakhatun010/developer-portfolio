@@ -10,6 +10,7 @@ h1{
 }
 section{
     display:flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 800px;
@@ -28,3 +29,13 @@ section{
     background-repeat:no-repeat;
     background-image :linear-gradient(orange,yellow);  
 }
+.font-width{
+    width:800px;
+    height:500px;
+}
+.dream-bg{
+    background-image: url(images/dream-bg.png);
+    background-repeat:no-repeat;
+    background-image :linear-gradient(orange,red);  
+}
+
